@@ -7,3 +7,12 @@
 
 
 
+#After clone run:
+```
+$ make
+```
+
+#Second step run:
+```
+$ ./hello
+```
