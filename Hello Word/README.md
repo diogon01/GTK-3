@@ -5,6 +5,5 @@
 
 [GTK 3 C Code Hello World Tutorial using Glade 3](https://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/)
 
-[GTK 3 C Code Hello World Tutorial using Glade 3](https://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/)
 
 
