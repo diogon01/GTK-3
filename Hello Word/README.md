@@ -17,4 +17,4 @@ $ make
 $ ./hello
 ```
 # Result:
-![alt text](https://prognotes.net/wp-content/uploads/2016/03/gtk3-glade-hello-world-c-program.png "Result output)
+![alt text](https://prognotes.net/wp-content/uploads/2016/03/gtk3-glade-hello-world-c-program.png" "Result output)
