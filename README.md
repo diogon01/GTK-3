@@ -4,9 +4,9 @@ Codes and examples to developer em GTK
 The repositorie is dedicated for help improve your undertending and stream line your exprerience 
 
 The first step is install dev librarys comand for debian distros:
-
+```
 $ apt-get install build-essential libgtk-3-dev
-
+```
 Test if instalation correct:
 
 $ pkg-config --cflags gtk+-3.0
